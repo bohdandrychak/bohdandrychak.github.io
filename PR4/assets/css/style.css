@@ -1,0 +1,95 @@
+h1 {
+    text-align: center;
+}
+.todo-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+.input-text{
+    width: 400px;
+    padding: 10px;
+    font-size: 15px;
+    border: 2px solid black;
+    border-radius: 4px;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+    width: 420px;
+    margin: 0 auto;
+}
+li {
+    width: 400px;
+    display: none;
+    height: fit-content;
+    align-items: center;
+    padding: 10px;
+    margin-bottom: 5px;
+    background-color: rgba(211, 211, 211, 0.204);
+    border: 1px solid lightgray;
+    border-radius: 4px;
+}
+.checkbox {
+    margin-right: 10px;
+}
+.delete-btn {
+    margin: 0 5px;
+    background-color: white;
+    color: red;
+    font-weight: bold;
+    border: 1px solid red;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: 0.5s;
+}
+.delete-btn:hover{
+    background-color: red;
+    color: white;
+    transition: 0.5s;
+}
+span:nth-child(even){
+    text-align: justify;
+    margin: 0 10px 0 5px;
+    height: fit-content;
+    word-wrap: break-word;
+    max-width: 265px;
+}
+.date{
+    text-align: justify;
+    margin: 0 5px 0 auto;
+    text-align: right;
+}
+.completed{
+    background-color: rgba(211, 211, 211, 0.107);
+    border: 1px solid rgb(211, 211, 211);
+}
+.completed span{
+    text-decoration: line-through;
+}
+textarea{
+    width: 265px;;
+    max-width: 265px;
+}
+.buttons{
+    display: flex;
+    justify-content: center;
+}
+.buttons button{
+    width: 125px;
+    margin: 0 10px;
+}
+.active{
+    display: flex;
+}
+@media(max-width: 440px){
+    .input-text{
+        width: 100%;
+    }
+    li{
+        width: 95%;
+    }
+    ul{
+        width: 100%;
+    }
+}

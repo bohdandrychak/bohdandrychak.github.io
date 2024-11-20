@@ -1,0 +1,32 @@
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+     integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+     crossorigin=""/>
+     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+     integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+     crossorigin=""></script>
+    <title>Wherever you go, there you are</title>
+</head>
+<body>
+    <form action="">
+        <input type="button" id="watch" value="Watch me">
+        <input type="button" id="clearWatch" value="Clear watch">
+    </form>
+    <div id="location">
+        Your location will go here.
+    </div>
+    <div id="distance">
+        Distance from college will go here.
+    </div>
+    <div id="map" style="height: 180px; width: 40%"></div>
+    <p>X:</p>
+    <input type="number" id="x">
+    <p>Y:</p>
+    <input type="number" id="y">
+    <p><button id="applyBtn">Apply</button></p>
+    <script src="script.js"></script>
+</body>
+</html>

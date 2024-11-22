@@ -1,0 +1,64 @@
+{
+    "products":[
+        {
+            "category":"Car Parts",
+            "name":"Brake Pads",
+            "link":"https://exist.ua/uk/trw-brand/kolodky-galmivni-dyskovi-komplekt-gdb1330-24178842/",
+            "image":"1.webp",
+            "price":"954 UAH",
+            "productTag":"New",
+            "productTagClass":"product-new",
+            "available":"add to cart"
+        },
+        {
+            "category":"Car Parts",
+            "name":"Spark Plug",
+            "link":"https://exist.ua/uk/denso-brand/svicha-zapaljuvannja-denso-nickel-tt-k20tt-4604-28807694/",
+            "image":"2.webp",
+            "price":"128 UAH",
+            "productTag":"none",
+            "productTagClass":"none",
+            "available":"add to cart"
+        },
+        {
+            "category":"Car Parts",
+            "name":"Battery",
+            "link":"https://exist.ua/uk/bosch-brand/batareja-akumuljatorna-bosch-s4-005-12v-60ach-540a-en-r-plus-0-092-s40-050-27001798/",
+            "image":"3.webp",
+            "price":"3240 UAH",
+            "productTag":"none",
+            "productTagClass":"none",
+            "available":"add to cart"
+        },
+        {
+            "category":"Car Parts",
+            "name":"Oil Filter",
+            "link":"https://exist.ua/uk/hyundai-kia-brand/filtr-masljanyj-26300-35505-45173782/",
+            "image":"4.webp",
+            "price":"none",
+            "productTag":"Best Seller",
+            "productTagClass":"product-hit",
+            "available":"the product is not available"
+        },
+        {
+            "category":"Car Parts",
+            "name":"Fuel Filter",
+            "link":"https://exist.ua/uk/purflux-brand/filtr-palyvnyj-c491-7720127/",
+            "image":"5.webp",
+            "price":"none",
+            "productTag":"none",
+            "productTagClass":"none",
+            "available":"the product is not available"
+        },
+        {
+            "category":"Car Parts",
+            "name":"Timing Belt",
+            "link":"https://exist.ua/uk/mitsubishi-brand/remin-grm-1145a051-17235365/",
+            "image":"6.webp",
+            "price":"3240 UAH",
+            "productTag":"none",
+            "productTagClass":"none",
+            "available":"add to cart"
+        }
+    ]
+}

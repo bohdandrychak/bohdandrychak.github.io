@@ -1,0 +1,46 @@
+{
+    "products":[
+        {
+            "category":"Car Parts",
+            "name":"Brake Pads",
+            "image":"1.webp",
+            "price":"954 UAH",
+            "productTag":"New"
+        },
+        {
+            "category":"Car Parts",
+            "name":"Spark Plug",
+            "image":"2.webp",
+            "price":"128 UAH",
+            "productTag":"none"
+        },
+        {
+            "category":"Car Parts",
+            "name":"Battery",
+            "image":"3.webp",
+            "price":"3240 UAH",
+            "productTag":"none"
+        },
+        {
+            "category":"Car Parts",
+            "name":"Oil Filter",
+            "image":"4.webp",
+            "price":"none",
+            "productTag":"Best Seller"
+        },
+        {
+            "category":"Car Parts",
+            "name":"Fuel Filter",
+            "image":"5.webp",
+            "price":"none",
+            "productTag":"none"
+        },
+        {
+            "category":"Car Parts",
+            "name":"Timing Belt",
+            "image":"6.webp",
+            "price":"3240 UAH",
+            "productTag":"none"
+        }
+    ]
+}

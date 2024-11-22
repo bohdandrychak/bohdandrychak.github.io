@@ -1,0 +1,46 @@
+{
+    "products":[
+        {
+            "category":"Автомобільні запчастини",
+            "name":"Колодки гальмівні",
+            "image":"1.webp",
+            "price":"954 грн",
+            "productTag":"Новинка"
+        },
+        {
+            "category":"Автомобільні запчастини",
+            "name":"Свічка запалювання",
+            "image":"2.webp",
+            "price":"128 грн",
+            "productTag":"none"
+        },
+        {
+            "category":"Автомобільні запчастини",
+            "name":"Акумулятор",
+            "image":"3.webp",
+            "price":"3240 грн",
+            "productTag":"none"
+        },
+        {
+            "category":"Автомобільні запчастини",
+            "name":"Фільтр масляний",
+            "image":"4.webp",
+            "price":"none",
+            "productTag":"Хіт продажів"
+        },
+        {
+            "category":"Автомобільні запчастини",
+            "name":"Фільтр палива",
+            "image":"5.webp",
+            "price":"none",
+            "productTag":"none"
+        },
+        {
+            "category":"Автомобільні запчастини",
+            "name":"Ремінь ГРМ",
+            "image":"6.webp",
+            "price":"3240 грн",
+            "productTag":"none"
+        }
+    ]
+}

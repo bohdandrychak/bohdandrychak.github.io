@@ -85,5 +85,8 @@ document.getElementById('language-selector').addEventListener('change', function
 })
 let language = localStorage.getItem('lang')
 document.getElementById("language-selector").value = language;
+if(language == null){
+    language = 'en'
+}
 loadData(language)
 console.log(language)

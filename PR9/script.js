@@ -49,6 +49,7 @@ function createSlides(data){
         if(product.productTag != 'none'){
             productTag.className = "product"
             productTag.classList.add(product.productTagClass)
+            productTag.textContent = product.productTag
         }
         category.className = "product-category"
         category.textContent = product.category
